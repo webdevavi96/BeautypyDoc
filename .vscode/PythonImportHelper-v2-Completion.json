@@ -119,7 +119,7 @@
         "kind": 5,
         "importPath": "BeautyPy.settings",
         "description": "BeautyPy.settings",
-        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-=(-xny$h+@c!v@des)s#hr(jp0*e)re37kc+zj-+o6*c*!$^m5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-=(-xny$h+@c!v@des)s#hr(jp0*e)re37kc+zj-+o6*c*!$^m5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['beautypy..pythonanywhere..com']\n# Application definition\nINSTALLED_APPS = [",
         "detail": "BeautyPy.settings",
         "documentation": {}
     },
@@ -128,7 +128,7 @@
         "kind": 5,
         "importPath": "BeautyPy.settings",
         "description": "BeautyPy.settings",
-        "peekOfCode": "SECRET_KEY = 'django-insecure-=(-xny$h+@c!v@des)s#hr(jp0*e)re37kc+zj-+o6*c*!$^m5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-=(-xny$h+@c!v@des)s#hr(jp0*e)re37kc+zj-+o6*c*!$^m5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['beautypy..pythonanywhere..com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
         "detail": "BeautyPy.settings",
         "documentation": {}
     },
@@ -137,7 +137,7 @@
         "kind": 5,
         "importPath": "BeautyPy.settings",
         "description": "BeautyPy.settings",
-        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['beautypy..pythonanywhere..com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
         "detail": "BeautyPy.settings",
         "documentation": {}
     },
@@ -146,7 +146,7 @@
         "kind": 5,
         "importPath": "BeautyPy.settings",
         "description": "BeautyPy.settings",
-        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    \"CoreApp\",",
+        "peekOfCode": "ALLOWED_HOSTS = ['beautypy..pythonanywhere..com']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    \"CoreApp\",",
         "detail": "BeautyPy.settings",
         "documentation": {}
     },
